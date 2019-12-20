@@ -2,7 +2,7 @@
 Materials per a repàs de PRO2
 
 ## Contribució al repositori
-Dels termes i condicions de GitHub a 20/12/2019:
+Dels termes i condicions de GitHub.com a 20/12/2019:
 
 ### D6. Contribuciones conforme a la Licencia del repositorio
 
